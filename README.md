@@ -1,4 +1,3 @@
-# 9001Final-Project
 FlashLang is a command-line flashcard learning tool developed in Python using only the standard library. No external libraries are required. The program helps users practice English-to-Chinese vocabulary translation and is designed for both language learners and programming beginners.
 Main features include:
 1. Prompts an English word and accepts a Chinese translation as input
