@@ -9,7 +9,7 @@ class FlashCardDeck:
         self.cards.append(FlashCard(english, chinese))
 
     def load_default_cards(self):
-        # 可独立维护词库
+        
         words = [
             ("apple", "苹果"),
             ("book", "书"),
